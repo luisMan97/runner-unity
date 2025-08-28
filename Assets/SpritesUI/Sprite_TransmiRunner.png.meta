@@ -1,0 +1,1214 @@
+fileFormatVersion: 2
+guid: b4ce173c93f044355b2df6f44f42db2d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3647
+        width: 1010
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04988458bd47242fa94b9e830d6b2528
+      internalID: 2102189905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_1
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3581
+        width: 1729
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec29ba4390384bc2b9906f3ef5722cd
+      internalID: -1891266261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2803
+        width: 631
+        height: 735
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18cc33b26de34a5aa989390e002d4c5
+      internalID: 235050338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2891
+        width: 211
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a96616ccce1346c1ba9f1d8fa199a4d
+      internalID: 1702415625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_4
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 3251
+        width: 631
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac2418f0ea03416ba3f5c385161dbce
+      internalID: 1051666426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_5
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 3165
+        width: 1008
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467c4113fe0d54c3c9f832f3c0903815
+      internalID: -1367178805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_6
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 2284
+        width: 627
+        height: 1115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bec505c4398641b4b46c232f63d5489
+      internalID: 1494894946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_7
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 1770
+        width: 188
+        height: 1731
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f6b1674a87740ef8ddb6e0f0398817
+      internalID: 488379596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_8
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 3069
+        width: 735
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a6630fcdc3c463eadd81b26e2092ce
+      internalID: 856499195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2477
+        width: 201
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f7ceb80170c4607a81fcaecb5f2941
+      internalID: -139051490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_10
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 2844
+        width: 653
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377fc9a0e21914b98b1d1c4fe262f026
+      internalID: -1472643881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_11
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 2284
+        width: 631
+        height: 734
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c29baf97604b4afa94e15b7c3dc909b
+      internalID: 391667903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1684
+        width: 827
+        height: 1003
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a06b126659104cd6bd9cfcd82c1fdc1
+      internalID: 1794009472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_13
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2633
+        width: 652
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09653d86d4164c0c8cfedb492fe777f
+      internalID: 741000927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_14
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2090
+        width: 205
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b212205b0fef447caf402c61f079dff
+      internalID: 47346734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_15
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2421
+        width: 652
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04399beac45114a3d8d8eb70c00ff91f
+      internalID: -2083610031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_16
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2206
+        width: 652
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f38c967dadb7419d8b65d3a78180b8d
+      internalID: 1462791808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_17
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2022
+        width: 844
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3977e4e48b6fa4ac5882c8d3e25844ef
+      internalID: 510778976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_18
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 2165
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9de5ad13b8d84a3f9d96af8248ebf99
+      internalID: 2135991326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_19
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1991
+        width: 652
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d335a0359ad224102876223979a3616a
+      internalID: -810794275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_20
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 2169
+        width: 455
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe52b5be4f65d4519af4f494e11cd2ce
+      internalID: 1633783620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_21
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1688
+        width: 201
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1141daa1999e74bc4bd40851229c5b9c
+      internalID: -1626724510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_22
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1993
+        width: 631
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18d1fc81f0ce4325baec9b4452a5e39
+      internalID: 1037651102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_23
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 37
+        width: 1085
+        height: 1924
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9a890fddb04e9299acb0d15a17ff7
+      internalID: 1376383419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_24
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 37
+        width: 1088
+        height: 1924
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0784f03eb2b499f96d6a304e17a64b
+      internalID: -7406594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_25
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 1653
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc6066f2add4420f97aa5d5851c94a0
+      internalID: -1310009623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_26
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1653
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db84c3b657e5c4e19a8c6551bac72d09
+      internalID: 1936905466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 33
+        width: 1133
+        height: 1604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f906f3484934836899c297d865d16c
+      internalID: -1085813405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_28
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 1448
+        width: 250
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5c793a766d74cc08b14024237f95a8
+      internalID: 1943162669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_29
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 1485
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8965a1b6decb42d58d40605b86b1e1e
+      internalID: 1868500550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_30
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 1166
+        width: 223
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1110695b3525b4f8992735089b5b6f4a
+      internalID: 1121818970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_31
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 1141
+        width: 180
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e2390ea5a6a46acb8f381aaca3c326
+      internalID: 1071744510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_32
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 938
+        width: 178
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667d05a802ee24cd5a8bb18577d84828
+      internalID: -359110656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_33
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 938
+        width: 180
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e24f1707ffc5499d8c71d64b4b2911e
+      internalID: 810467414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_34
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 1110
+        width: 142
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1c935c881f04c8882b3511ca5004df
+      internalID: 122140745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_35
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 725
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eed62b0f35ac4b8c928960914e4c7af
+      internalID: -1131651188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_36
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 723
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d88ea28f327c47ef8f6675354c6998b
+      internalID: -352293707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_37
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 498
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3bf5ec373ae435fae8d5b2756b7e48
+      internalID: -1152398234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_38
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 498
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4119f5f6c39d44ff920b8e7f61e40b3
+      internalID: -776779891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_39
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 277
+        width: 180
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cacf80c5cca4bc695300060c3631b6
+      internalID: -223078960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_40
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 277
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ee1f99c9c6d4e0486bafdff439e566
+      internalID: 1917067951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_41
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 53
+        width: 177
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071c6e16a5a144d7b4ec38b53b63e94
+      internalID: 1602317488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_42
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 53
+        width: 180
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bb7afa93b514395b347abf66d5020e
+      internalID: -1836712990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_43
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 1292
+        width: 362
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c0e2889e7d847e29883a49ec2d271a
+      internalID: 4815771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_44
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 2811
+        width: 678
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8675838d6caa4871a20c532d9e0f9e9
+      internalID: 1761537538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_TransmiRunner_45
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 2854
+        width: 352
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ece8d2ebcf614b62a7006593e9d6fb1
+      internalID: 392238128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3875ebc8a87fa4031baa9adeb1775ac5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite_TransmiRunner_0: 2102189905
+      Sprite_TransmiRunner_1: -1891266261
+      Sprite_TransmiRunner_10: -1472643881
+      Sprite_TransmiRunner_11: 391667903
+      Sprite_TransmiRunner_12: 1794009472
+      Sprite_TransmiRunner_13: 741000927
+      Sprite_TransmiRunner_14: 47346734
+      Sprite_TransmiRunner_15: -2083610031
+      Sprite_TransmiRunner_16: 1462791808
+      Sprite_TransmiRunner_17: 510778976
+      Sprite_TransmiRunner_18: 2135991326
+      Sprite_TransmiRunner_19: -810794275
+      Sprite_TransmiRunner_2: 235050338
+      Sprite_TransmiRunner_20: 1633783620
+      Sprite_TransmiRunner_21: -1626724510
+      Sprite_TransmiRunner_22: 1037651102
+      Sprite_TransmiRunner_23: 1376383419
+      Sprite_TransmiRunner_24: -7406594
+      Sprite_TransmiRunner_25: -1310009623
+      Sprite_TransmiRunner_26: 1936905466
+      Sprite_TransmiRunner_27: -1085813405
+      Sprite_TransmiRunner_28: 1943162669
+      Sprite_TransmiRunner_29: 1868500550
+      Sprite_TransmiRunner_3: 1702415625
+      Sprite_TransmiRunner_30: 1121818970
+      Sprite_TransmiRunner_31: 1071744510
+      Sprite_TransmiRunner_32: -359110656
+      Sprite_TransmiRunner_33: 810467414
+      Sprite_TransmiRunner_34: 122140745
+      Sprite_TransmiRunner_35: -1131651188
+      Sprite_TransmiRunner_36: -352293707
+      Sprite_TransmiRunner_37: -1152398234
+      Sprite_TransmiRunner_38: -776779891
+      Sprite_TransmiRunner_39: -223078960
+      Sprite_TransmiRunner_4: 1051666426
+      Sprite_TransmiRunner_40: 1917067951
+      Sprite_TransmiRunner_41: 1602317488
+      Sprite_TransmiRunner_42: -1836712990
+      Sprite_TransmiRunner_43: 4815771
+      Sprite_TransmiRunner_44: 1761537538
+      Sprite_TransmiRunner_45: 392238128
+      Sprite_TransmiRunner_5: -1367178805
+      Sprite_TransmiRunner_6: 1494894946
+      Sprite_TransmiRunner_7: 488379596
+      Sprite_TransmiRunner_8: 856499195
+      Sprite_TransmiRunner_9: -139051490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
